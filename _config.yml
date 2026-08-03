@@ -1,0 +1,10 @@
+theme : jekyll-theme-midnight
+
+url: "https://dabblesec.github.io"
+baseurl: ""  # Leave empty for user sites, "/repo-name" for project sites
+
+title: "DabbleSec"
+author:
+  name: "Anon"
+  email: "anon"
+
